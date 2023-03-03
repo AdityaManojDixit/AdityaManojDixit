@@ -1,7 +1,7 @@
 
--✨_Welcome!_✨ 
--👋 Hi, I’m @AdityaManojDixit.
--👀 I’m interested in Chess, Drumming, Competitive Coding & Pubic Speaking.
--🌱 I’m currently learning MERN Stack.
--💞️ I’m looking to collaborate on Node.
+-✨_Welcome!_✨<br> 
+-👋 Hi, I’m @AdityaManojDixit <br>
+-👀 I’m interested in Chess, Drumming, Competitive Coding & Pubic Speaking<br>
+-🌱 I’m currently learning MERN Stack<br>
+-💞️ I’m looking to collaborate on Node<br>
 
