@@ -19,7 +19,7 @@ A **software engineer** and **computer science undergraduate** with foundational
 
 - 💬 Ask me about **React, Nodejs, Express, Typescript, PostgreSQL, Frontend,Backend, Database, Competitive Programming**
 
-- 📫 How to reach me **2021pietcsaditya008@poornima.org**
+- 📫 How to reach me **aditya.dixit7996@gmail.com**
 
 - 🤝 Lets Collaborate!
 
