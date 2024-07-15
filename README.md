@@ -111,3 +111,5 @@ Here are my key competencies and skills:
 Let's dive into the exciting world of AI together!
 
 Stay curious and keep coding! 😄
+
+<img src="https://github-profile-trophy.vercel.app/?username=adityamanojdixit">
