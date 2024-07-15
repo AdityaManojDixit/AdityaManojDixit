@@ -9,7 +9,7 @@ A **software engineer** and **computer science undergraduate** with foundational
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityadixit1509&label=Profile%20views&color=0e75b6&style=flat" alt="adityamanojdixit" /> </p>
 
-<p align="left"> <a href="https://twitter.com/adityamanojdixit" target="blank"><img src="https://img.shields.io/twitter/follow/adityamanojdixit?logo=twitter&style=for-the-badge" alt="adityamanojdixit" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/aditya-dixit-26a12525a/" target="blank"><img src="https://img.shields.io/twitter/follow/adityamanojdixit?logo=linkedin&style=for-the-badge" alt="adityamanojdixit" /></a> </p>
 
 - 🔭 I’m currently exploring Web Developement, Machine Learning and Salesforce.
 
