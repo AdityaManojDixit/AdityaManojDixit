@@ -11,13 +11,13 @@ A **software engineer** and **computer science undergraduate** with foundational
 
 <p align="left"> <a href="https://twitter.com/adityamanojdixit" target="blank"><img src="https://img.shields.io/twitter/follow/adityamanojdixit?logo=twitter&style=for-the-badge" alt="adityamanojdixit" /></a> </p>
 
-- 🔭 I’m currently exploring Web Machine Learning and Data Analytics.
+- 🔭 I’m currently exploring Web Developement, Machine Learning and Salesforce.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structures and Algorithms**, **Next.js** & **TypeScript**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/AdityaManojDixit">Github</a> 
 
-- 💬 Ask me about **React, Nodejs, Express, Typescript, PostgreSQL, Frontend,Backend, Database, Competitive Programming**
+- 💬 Ask me about **React, Nodejs, Express, Typescript, PostgreSQL, Frontend, Backend, Databases, Competitive Programming**
 
 - 📫 How to reach me **aditya.dixit7996@gmail.com**
 
