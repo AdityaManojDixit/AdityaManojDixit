@@ -1,4 +1,3 @@
-![MasterHead](https://devpunch.com/img/Dev-At-Work-Gif.jpg)
 <h1 align="center">Hi 👋, I'm Aditya Dixit</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
