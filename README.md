@@ -104,14 +104,7 @@ Here are my key competencies and skills:
 - ⚡ Fun fact: Competitive programming is my passion!
 -->
 
--  🔭 I’m currently working on: AI
-- 🌱 I’m currently learning: AI
-- 👯 I’m looking to collaborate on: AI projects
-- 🤔 I’m looking for help with: AI challenges
-- 💬 Ask me about: AI or any coding-related questions
-- 📫 How to reach me: Feel free to connect with me for any AI discussions
-- 😄 Challenge, fun, joy lie in: AI
-- ⚡ Fun fact: AI is my passion!
+
 
 Let's dive into the exciting world of AI together!
 
