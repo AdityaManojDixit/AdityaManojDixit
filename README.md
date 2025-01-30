@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
-A **software engineer** and **computer science undergraduate** with foundational knowledge in **competitive coding, algorithms, data structures, software development** and actively training **Machine Learning and Deep Learning models**.
+A **software developer** and **computer science undergraduate** with foundational knowledge in **competitive coding, algorithms, data structures, software development** and actively training **Machine Learning and Deep Learning models**.
 
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
